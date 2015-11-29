@@ -33,6 +33,5 @@ Contributors wishing to edit a module's files should follow the following proces
 
 That's it: you have contributed to this open-source project! Congratulations!
 
-[1]: http://doc.prestashop.com/display/PS16/Coding+Standards
+[1]: http://devdocs.magento.com/guides/v2.0/coding-standards/code-standard-php.html
 [2]: https://help.github.com/articles/using-pull-requests
-
